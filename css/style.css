@@ -341,38 +341,48 @@ body{
 }
 @media (max-width: 578px){
     .container{
-        width: 90%;}
+        width: 90%;
+    }
     .header{
         -ms-flex-wrap: wrap;
-        flex-wrap: wrap;}
+        flex-wrap: wrap;
+    }
     .search{
         -ms-flex-preferred-size: 100%;
             flex-basis: 100%;
         -webkit-box-ordinal-group: 4;
         -ms-flex-order: 3;
                  order: 3;
-        margin-top: 5%;}
+        margin-top: 5%;
+    }
     .content{
         -ms-flex-wrap: wrap;
-            flex-wrap: wrap;}
+            flex-wrap: wrap;
+    }
     .short-info{
         width: 100%;
         margin-right: 0;
-        margin-bottom: 5%;}
+        margin-bottom: 5%;
+    }
     .actors-list, .actors-title{
-        display: none;}
+        display: none;
+    }
     .movie-info{
         -ms-flex-wrap: wrap;
-            flex-wrap: wrap;}
+            flex-wrap: wrap;
+    }
     .play{
         -ms-flex-preferred-size: 100%;
             flex-basis: 100%;
-        margin-top: 10%;}
+        margin-top: 10%;
+    }
     .short-info{
-        margin-right: 0;}
+        margin-right: 0;
+    }
     .button{
         padding: auto;
-        width: 100%;}
+        width: 100%;
+    }
     .poster{
         margin-top: -20%;
         display: inline-block;
