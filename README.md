@@ -1,3 +1,1 @@
-# Batman1
-On training
-Index.html in the folder
+# Привет! Этот сайт я сделал по обучающим видео интенсива от GLO Academy!
